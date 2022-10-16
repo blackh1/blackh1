@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @blackh1
-- 👀 I’m interested in security
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-blackh1/blackh1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackh1&show_icons=true&locale=cn&bg_color=105,87CEFA,9370DB,EE82EE,e96443&title_color=FFFF00&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
